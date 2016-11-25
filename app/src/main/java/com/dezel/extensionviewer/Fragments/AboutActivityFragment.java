@@ -1,4 +1,4 @@
-package com.dezel.extensionviewer;
+package com.dezel.extensionviewer.Fragments;
 
 import android.app.Fragment;
 import android.content.pm.PackageInfo;
@@ -9,6 +9,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.dezel.extensionviewer.R;
 
 
 public class AboutActivityFragment extends Fragment {
